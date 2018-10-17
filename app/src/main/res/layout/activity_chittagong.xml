@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/ctg_back"
+    tools:context=".chittagongActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <Button
+            android:id="@+id/chittagong1_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg1"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong2_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/ctg2"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong3_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg3"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong4_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg4"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong5_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg5"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+
+        <Button
+            android:id="@+id/chittagong6_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg6"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong7_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/ctg7"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong8_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg8"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong9_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg9"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong10_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/ctg10"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong11_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg11"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong12_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg12"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong13_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/ctg13"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong14_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+            android:text="@string/ctg14"
+            android:textSize="20sp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong15_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/ctg15"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong16_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/ctg16"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong17_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg17"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong18_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg18"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong19_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/ctg19"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong20_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg20"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong21_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/ctg21"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong22_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/ctg22"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong23_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg23"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+        <Button
+            android:id="@+id/chittagong24_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ctg24"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ctg_button_color" />
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

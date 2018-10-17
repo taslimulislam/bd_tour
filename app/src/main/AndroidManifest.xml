@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dell.bd_tour">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".splash_screen"
+            android:theme="@style/splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakaActivity" />
+        <activity android:name=".chittagongActivity" />
+        <activity android:name=".barishalActivity" />
+        <activity android:name=".khulnaActivity" />
+        <activity android:name=".rajshahiActivity" />
+        <activity android:name=".slyhetActivity" />
+        <activity android:name=".dhaka1Activity" />
+        <activity android:name=".dhaka2Activity" />
+        <activity android:name=".dhaka3Activity" />
+        <activity android:name=".dhaka4Activity" />
+        <activity android:name=".dhaka5Activity" />
+        <activity android:name=".dhaka6Activity" />
+        <activity android:name=".dhaka7Activity" />
+        <activity android:name=".dhaka8Activity" />
+        <activity android:name=".dhaka9Activity" />
+        <activity android:name=".dhaka10Activity" />
+        <activity android:name=".dhaka11Activity" />
+        <activity android:name=".dhaka12Activity" />
+        <activity android:name=".dhaka13Activity" />
+        <activity android:name=".dhaka14Activity" />
+        <activity android:name=".dhaka15Activity" />
+        <activity android:name=".dhaka16Activity" />
+        <activity android:name=".dhaka17Activity" />
+        <activity android:name=".ctg1Activity" />
+        <activity android:name=".ctg2Activity" />
+        <activity android:name=".ctg3Activity" />
+        <activity android:name=".ctg4Activity" />
+        <activity android:name=".ctg5Activity" />
+        <activity android:name=".ctg6Activity" />
+        <activity android:name=".ctg7Activity" />
+        <activity android:name=".ctg8Activity" />
+        <activity android:name=".ctg9Activity" />
+        <activity android:name=".ctg10Activity" />
+        <activity android:name=".ctg11Activity" />
+        <activity android:name=".ctg12Activity" />
+        <activity android:name=".ctg13Activity" />
+        <activity android:name=".ctg14Activity" />
+        <activity android:name=".ctg15Activity" />
+        <activity android:name=".ctg16Activity" />
+        <activity android:name=".ctg17Activity" />
+        <activity android:name=".ctg18Activity" />
+        <activity android:name=".ctg19Activity" />
+        <activity android:name=".ctg20Activity" />
+        <activity android:name=".ctg21Activity" />
+        <activity android:name=".ctg22Activity" />
+        <activity android:name=".ctg23Activity" />
+        <activity android:name=".khulna1Activity" />
+        <activity android:name=".khulna2Activity" />
+        <activity android:name=".khulna3Activity" />
+        <activity android:name=".khulna4Activity" />
+        <activity android:name=".khulna5Activity" />
+        <activity android:name=".khulna6Activity" />
+        <activity android:name=".khulna7Activity" />
+        <activity android:name=".khulna8Activity" />
+        <activity android:name=".sly1Activity" />
+        <activity android:name=".sly2Activity" />
+        <activity android:name=".sly3Activity" />
+        <activity android:name=".sly4Activity" />
+        <activity android:name=".sly5Activity" />
+        <activity android:name=".sly6Activity" />
+        <activity android:name=".sly7Activity" />
+        <activity android:name=".sly8Activity" />
+        <activity android:name=".sly9Activity" />
+        <activity android:name=".sly10Activity" />
+        <activity android:name=".sly11Activity" />
+        <activity android:name=".sly12Activity" />
+        <activity android:name=".sly13Activity" />
+        <activity android:name=".sly14Activity" />
+        <activity android:name=".raj1Activity" />
+        <activity android:name=".raj2Activity" />
+        <activity android:name=".raj3Activity" />
+        <activity android:name=".raj4Activity" />
+        <activity android:name=".raj5Activity" />
+        <activity android:name=".raj6Activity" />
+        <activity android:name=".bari1Activity" />
+        <activity android:name=".bari2Activity" />
+        <activity android:name=".bari3Activity" />
+        <activity android:name=".bari4Activity" />
+        <activity android:name=".bari5Activity" />
+        <activity android:name=".bari6Activity" />
+        <activity android:name=".ctg24Activity" />
+        <activity android:name=".CalcoActivity" />
+        <activity android:name=".NoteActivity" />
+        <activity android:name=".list_of_data"></activity>
+    </application>
+
+</manifest>

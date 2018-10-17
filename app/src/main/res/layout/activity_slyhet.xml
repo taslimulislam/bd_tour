@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/sly_back1"
+    tools:context=".slyhetActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/slyhet1_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/sly1"
+        android:textSize="20sp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet2_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sly2"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet3_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sly3"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet4_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/sly4"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet5_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sly5"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet6_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sly6"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet7_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/sly7"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet8_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/sly8"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet9_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sly9"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet10_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sly10"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet11_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/sly11"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet12_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/sly12"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet13_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sly13"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+        <Button
+            android:id="@+id/slyhet14_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/sly14"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/sly_button_back" />
+
+
+    </LinearLayout>
+</ScrollView>

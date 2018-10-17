@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dh_back"
+    android:orientation="vertical"
+    tools:context=".dhakaActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/dhaka1_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/dha1"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka2_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/dha2"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka3_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/dha3"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka4_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/dha4"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka5_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/dha5"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka6_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/dha6"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka7_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/dha7"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka8_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/dha8"
+            android:textSize="20sp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka9_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/dha9"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka10_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/dha10"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka11_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/dha11"
+            android:textSize="20sp"
+            android:background="@drawable/dhaka_button_color"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"/>
+
+        <Button
+            android:id="@+id/dhaka12_btn"
+            android:layout_width="match_parent"
+            android:text="@string/dha12"
+            android:textSize="20sp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka13_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/dha13"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka14_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/dha14"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka15_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/dha15"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka16_btn"
+            android:layout_width="match_parent"
+            android:text="@string/dha16"
+            android:textSize="20sp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka17_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/dha17"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+        <Button
+            android:id="@+id/dhaka18_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="calculate"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/dhaka_button_color" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

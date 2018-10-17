@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/khu_back"
+    tools:context=".khulnaActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <Button
+        android:id="@+id/khulna1_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/kh1"
+        android:textSize="20sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/khu_button_back" />
+        <Button
+            android:id="@+id/khulna2_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/kh2"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/khu_button_back" />
+        <Button
+            android:id="@+id/khulna3_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/kh3"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/khu_button_back" />
+        <Button
+            android:id="@+id/khulna4_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/kh4"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/khu_button_back" />
+        <Button
+            android:id="@+id/khulna5_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/kh5"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/khu_button_back" />
+        <Button
+            android:id="@+id/khulna6_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/kh6"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/khu_button_back" />
+        <Button
+            android:id="@+id/khulna7_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/kh7"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/khu_button_back" />
+        <Button
+            android:id="@+id/khulna8_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/kh8"
+            android:textSize="20sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/khu_button_back" />
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">বাংলাদেশ ঘুরেদেখা</string>
+    <string name="dhaka"><b>ঢাকা\n বিভাগ</b></string>
+    <string name="ctg"><b>চট্টগ্রাম\n বিভাগ</b></string>
+    <string name="bari"><b>বরিশাল\n বিভাগ</b></string>
+    <string name="khu"><b>খুলনা\n বিভাগ</b></string>
+    <string name="sly"><b>সিলেট\n বিভাগ</b></string>
+    <string name="raj"><b>রাজশাহী\n বিভাগ</b></string>
+    <string name="bd"><b>বাংলাদেশের দর্শনীয় স্থান</b></string>
+
+    <!--dhaka-->
+    <string name="dha1">হাতিরঝিল</string>
+    <string name="dha2">তারা মসজিদ</string>
+    <string name="dha3">জাতীয় জাদুঘর</string>
+    <string name="dha4">মৈনট ঘাট,দোহার</string>
+    <string name="dha5">জাতীয় স্মৃতিসৌধ</string>
+    <string name="dha6">আহসান মঞ্জিল</string>
+    <string name="dha7">লালবাগ কেল্লা</string>
+    <string name="dha8">রায়ের বাজার বধ্যভূমি</string>
+    <string name="dha9">বিমান জাদুঘর</string>
+    <string name="dha10">হোসেনী দালান</string>
+    <string name="dha11">নন্দন পার্ক</string>
+    <string name="dha12">ফ্যান্টাসী কিংডম</string>
+    <string name="dha13">ড্রীম হলিডে পার্ক</string>
+    <string name="dha14">বোটানিক্যাল গার্ডেন</string>
+    <string name="dha15">ভাওয়াল ন্যাশনাল পার্ক</string>
+    <string name="dha16">নুহাশ পল্লী</string>
+    <string name="dha17">দিয়াবাড়ি, উত্তরা</string>
+
+    <!--chittagong-->
+
+    <string name="ctg1">কক্সবাজার </string>
+    <string name="ctg2">রামু বৌদ্ধ বিহার</string>
+    <string name="ctg3">সাজেক ভ্যালি, রাঙামাটি</string>
+    <string name="ctg4">সেন্ট মার্টিন’স দ্বীপ</string>
+    <string name="ctg5">কমলদহ ঝর্ণা</string>
+    <string name="ctg6">বাটালি হিল</string>
+    <string name="ctg7">সহস্রধারা ঝর্ণা</string>
+    <string name="ctg8">সীতাকুণ্ড ইকো পার্ক</string>
+    <string name="ctg9"> মহামায়া লেক, মিরসরাই</string>
+    <string name="ctg10">ভাটিয়ারী লেক</string>
+    <string name="ctg11">মিনি বাংলাদেশ, কালুর ঘাট</string>
+    <string name="ctg12">ওয়ার সিমেট্রি</string>
+    <string name="ctg13">পারকি সমুদ্র সৈকত</string>
+    <string name="ctg14">নাপিত্তাছড়া ট্রেইল</string>
+    <string name="ctg15">খৈয়াছড়া ঝর্ণা</string>
+    <string name="ctg16">সন্দ্বীপ</string>
+    <string name="ctg17">নাফাখুম জলপ্রপাত</string>
+    <string name="ctg18">ফয়েজ লেক</string>
+    <string name="ctg19">আলুটিলা গুহা</string>
+    <string name="ctg20">নিঝুম দ্বীপ</string>
+    <string name="ctg21">শালবন বৌদ্ধ বিহার</string>
+    <string name="ctg22">হিমছড়ি</string>
+    <string name="ctg23">পতেঙ্গা সমুদ্র সৈকত</string>
+    <string name="ctg24">চন্দ্রনাথ পাহাড়</string>
+
+    <!--slyhet-->
+
+    <string name="sly1">হযরত শাহজালাল (রঃ) মাজার</string>
+    <string name="sly2">জাফলং</string>
+    <string name="sly3">পান্থুমাই ঝর্ণা, সিলেট</string>
+    <string name="sly4">বিছনাকান্দি, সিলেট</string>
+    <string name="sly5">ভোলাগঞ্জ, সিলেট</string>
+    <string name="sly6">উৎমাছড়া, সিলেট</string>
+    <string name="sly7">লোভাছড়া, সিলেট</string>
+    <string name="sly8">রাতারগুল সোয়াম্প ফরেস্ট</string>
+    <string name="sly9">সংগ্রামপুঞ্জি ঝর্ণা, সিলেট</string>
+    <string name="sly10">মালনীছড়া চা বাগান</string>
+    <string name="sly11">হযরত শাহ পরাণ (রাঃ) মাজার</string>
+    <string name="sly12">ডিবির হাওর</string>
+    <string name="sly13">হাম হাম ঝর্ণা</string>
+    <string name="sly14">লালাখাল, সিলেট</string>
+
+    <!--chittagong-->
+
+    <string name="bri1">সাগরকন্যা কুয়াকাটা</string>
+    <string name="bri2">শাপলা গ্রাম, সাতলা</string>
+    <string name="bri3">দুর্গাসাগর দীঘি, বরিশাল</string>
+    <string name="bri4">গুঠিয়া মসজিদ, বরিশাল</string>
+    <string name="bri5">মনপুরা দ্বীপ</string>
+    <string name="bri6">মিয়াবাড়ি জামে মসজিদ</string>
+
+    <!--khulna-->
+
+    <string name="kh1">হযরত খানজাহান আলীর (রঃ) মাজার  </string>
+    <string name="kh2">রবীন্দ্র কুঠিবাড়ি</string>
+    <string name="kh3">ষাট গম্বুজ মসজিদ</string>
+    <string name="kh4">সুন্দরবন </string>
+    <string name="kh5">রবীন্দ্রনাথের শ্বশুরবাড়ি</string>
+    <string name="kh6">মংলা পোর্ট</string>
+    <string name="kh7">দুবলার চর</string>
+    <string name="kh8">করমজল পর্যটন কেন্দ্র</string>
+
+    <!--rajshahi-->
+
+    <string name="rj1">পুঠিয়া রাজবাড়ী</string>
+    <string name="rj2">মহাস্থানগড়</string>
+    <string name="rj3">পাহাড়পুর বৌদ্ধ বিহার</string>
+    <string name="rj4">বাঘা মসজিদ</string>
+    <string name="rj5">বরেন্দ্র গবেষণা</string>
+    <string name="rj6">শহীদ কামারুজ্জামান কেন্দ্রীয় উদ্যান ও চিড়িয়াখানা</string>
+
+
+    <!--calcostring-->
+
+
+    <string name="clear">C</string>
+    <string name="backspace">⌫</string>
+    <string name="divide">÷</string>
+    <string name="sqrt">√</string>
+    <string name="square">x²</string>
+    <string name="posneg">±</string>
+    <string name="openBracket">(</string>
+    <string name="closeBracket">)</string>
+
+
+</resources>
